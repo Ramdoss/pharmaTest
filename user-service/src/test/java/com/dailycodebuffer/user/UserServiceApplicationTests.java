@@ -5,7 +5,7 @@ import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
 class UserServiceApplicationTests {
-
+//test cases added
 	@Test
 	void contextLoads() {
 	}
